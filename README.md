@@ -69,14 +69,14 @@ Ejecutar la aplicación para que el cliente pueda recibir las peticiones. En la 
 ### Properties
 <img title="Architecture=" src="Images/Properties.png">
 
-### Owners
+<!-- ### Owners
 <img title="Architecture=" src="Images/Owners.png">
 
 ### API
 <img title="Architecture=" src="Images/API.png">
 
 ### DB
-<img title="Architecture=" src="Images/DB.png">
+<img title="Architecture=" src="Images/DB.png"> -->
 
 
 
