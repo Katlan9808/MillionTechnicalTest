@@ -1,0 +1,11 @@
+D:\Estudio\TechnicalTest\Million.Utilities\bin\Debug\net8.0\Million.Utilities.deps.json
+D:\Estudio\TechnicalTest\Million.Utilities\bin\Debug\net8.0\Million.Utilities.dll
+D:\Estudio\TechnicalTest\Million.Utilities\bin\Debug\net8.0\Million.Utilities.pdb
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.AssemblyInfoInputs.cache
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.AssemblyInfo.cs
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.csproj.CoreCompileInputs.cache
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.dll
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\refint\Million.Utilities.dll
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\Million.Utilities.pdb
+D:\Estudio\TechnicalTest\Million.Utilities\obj\Debug\net8.0\ref\Million.Utilities.dll

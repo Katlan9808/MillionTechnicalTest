@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68bb1639eb5f0555c79d2de9"
+  },
+  "IdProperty": "PROP001",
+  "Name": "Luxury Villa",
+  "Address": "Km 5 Vía La Calera, Bogotá",
+  "Price": {
+    "$numberDecimal": "1200000000"
+  },
+  "CodeInternal": "LV-2025-0069",
+  "Year": 2023,
+  "IdOwner": "OWN001"
+},
+{
+  "_id": {
+    "$oid": "68bb1642eb5f0555c79d2deb"
+  },
+  "IdProperty": "PROP002",
+  "Name": "Eco Cabin",
+  "Address": "Vereda El Retiro, Medellín",
+  "Price": 850000000,
+  "CodeInternal": "EC-2025-002",
+  "Year": 2018,
+  "IdOwner": "OWN002"
+},
+{
+  "_id": {
+    "$oid": "68bb9be26a00e27efbd11f55"
+  },
+  "IdProperty": "77412158-e88b-40eb-87ee-4f69f32a8fec",
+  "Name": "GABI ANGELY",
+  "Address": "almacen j",
+  "Price": {
+    "$numberDecimal": "123"
+  },
+  "CodeInternal": "LV-23",
+  "Year": 2025,
+  "IdOwner": "Julian"
+}]

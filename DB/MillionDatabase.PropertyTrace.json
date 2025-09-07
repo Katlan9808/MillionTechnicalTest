@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "68bb166ceb5f0555c79d2df5"
+  },
+  "IdPropertyTrace": "TRACE001",
+  "DateSale": "2023-03-15",
+  "Name": "Initial Purchase",
+  "Value": 1150000000,
+  "Tax": 92000000,
+  "IdProperty": "PROP001"
+},
+{
+  "_id": {
+    "$oid": "68bb1675eb5f0555c79d2df7"
+  },
+  "IdPropertyTrace": "TRACE002",
+  "DateSale": "2024-07-22",
+  "Name": "Renovation Investment",
+  "Value": 30000000,
+  "Tax": 2400000,
+  "IdProperty": "PROP002"
+}]

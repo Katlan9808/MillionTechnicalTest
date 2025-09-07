@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "68bb1628eb5f0555c79d2de6"
+  },
+  "IdOwner": "OWN002",
+  "Name": "Carlos Andrés Ruiz",
+  "Address": "Calle 8 #23-45, Medellín",
+  "Photo": "carlos_ruiz.jpg",
+  "Birthday": "1978-11-03"
+},
+{
+  "_id": {
+    "$oid": "68bb59d8080c6b12305dfb73"
+  },
+  "IdOwner": "OWN003",
+  "Name": "Laura Gómez",
+  "Address": null,
+  "Photo": null,
+  "Birthday": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  }
+}]

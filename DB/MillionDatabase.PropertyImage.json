@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "68bb1659eb5f0555c79d2df0"
+  },
+  "IdPropertyImage": "IMG001",
+  "IdProperty": "PROP001",
+  "File": "villa_front.jpg",
+  "Enabled": true
+},
+{
+  "_id": {
+    "$oid": "68bb1662eb5f0555c79d2df2"
+  },
+  "IdPropertyImage": "IMG002",
+  "IdProperty": "PROP002",
+  "File": "cabin_interior.jpg",
+  "Enabled": true
+}]
