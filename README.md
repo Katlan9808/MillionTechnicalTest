@@ -66,8 +66,8 @@ Ejecutar la aplicación para que el cliente pueda recibir las peticiones. En la 
 ### Bienvenida
 <img title="Architecture=" src="Images/Welcome.png">
 
-<!-- ### Properties
-<img title="Architecture=" src="Images/Properties.png"> -->
+### Properties
+<img title="Architecture=" src="Images/Properties.png">
 
 <!-- ### Owners
 <img title="Architecture=" src="Images/Owners.png">
